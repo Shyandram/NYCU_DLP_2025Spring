@@ -1,6 +1,0 @@
-torch
-torchvision
-pillow
-tqdm
-albumentations
-tensorboardX
