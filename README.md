@@ -8,6 +8,8 @@ This course covers practical implementations of various deep learning models and
 
 ## 🗂️ Lab Assignments
 
+The readme is genreated by Copilot.
+
 ### Lab 2: Binary Semantic Segmentation
 **Topic**: Semantic segmentation for binary classification tasks
 - **Framework**: PyTorch
